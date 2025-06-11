@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9fc5a81ce0e021f4590e461139cbe514, type: 3}
+  m_Name: DataContainer
+  m_EditorClassIdentifier: 
+  HarvestingUnitContainer: {fileID: 11400000, guid: ce483ccd5518b22489d4ecdf1a87bd9f, type: 2}
+  PickUpUnitContainer: {fileID: 11400000, guid: f6ac0d4d7921cd848908d9614d4e14d7, type: 2}
+  CarryingUnitContainer: {fileID: 11400000, guid: 2c5fd286edd41f048b5ee73a2c35e1e0, type: 2}
+  TempStorageContainer: {fileID: 11400000, guid: 74d59b609e55c584b8fa3445e9bd5f44, type: 2}
+  NomalStorageContainer: {fileID: 11400000, guid: 281da23c0e2499a4c95450cc09016374, type: 2}
+  buildingContainer: {fileID: 11400000, guid: fe1e375143ca4714ea7baa5c9394fbc4, type: 2}
+  SkillContainer: {fileID: 11400000, guid: 39850f357d941ed44bcd3473e0e7a7bb, type: 2}
+  productContainer: {fileID: 11400000, guid: 7127f5b4d27c7c1439702f31427a878f, type: 2}
+  JuiceProductorContainer: {fileID: 11400000, guid: 74e67a1877f3f4e4ab4b11063827b18e, type: 2}
+  CookProductorContainer: {fileID: 11400000, guid: e5e6dfbd25d1c9c498b767d24b1288ef, type: 2}
+  DessertProductorContainer: {fileID: 11400000, guid: 2666a22fb3bc0904d9f891fed8a87242, type: 2}
+  MarketContainer: {fileID: 11400000, guid: bd3453dbf7ae07e41b1a588b663da353, type: 2}

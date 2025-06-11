@@ -1,0 +1,549 @@
+fileFormatVersion: 2
+guid: 71bc2967c31505e4ab380bc1da3aecfa
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 8192
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1685e58b10bb58949bcfa6fed54fad49
+      internalID: -165252644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_1
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b837399a2030c44ea50850f28ee1c02
+      internalID: -1280205979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_2
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 951e1abb8ab49234e9ce2ec13e438e5a
+      internalID: -276920952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22301c152236916449b28d0842505cdd
+      internalID: -1058895592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_4
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 737c80a7724be2640bbef283647e0b23
+      internalID: -1457222886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_5
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a3c717a32b6d941ba371de87652ef4
+      internalID: 1050999469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_6
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01375f3015d84b6479677984564f12b5
+      internalID: 1928029879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_7
+      rect:
+        serializedVersion: 2
+        x: 1652
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 295ae2251f0cf0942b68eec99b4ff6e1
+      internalID: 1824536624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_8
+      rect:
+        serializedVersion: 2
+        x: 1888
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0eb42cef51d7df4db35be79b2de8db3
+      internalID: 65603788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_9
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b917a90286fd7444bd4d59c559ebd77
+      internalID: 1770854678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_10
+      rect:
+        serializedVersion: 2
+        x: 2360
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 495ccd06043433746986a5f1b43c39ef
+      internalID: -1277825871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_11
+      rect:
+        serializedVersion: 2
+        x: 2596
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd65fbe44b80c924db8c3dcbd4a0d77a
+      internalID: -1286294361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_12
+      rect:
+        serializedVersion: 2
+        x: 2832
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33c041bb03438da4194543cd999fe36b
+      internalID: 1813803131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_13
+      rect:
+        serializedVersion: 2
+        x: 3068
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94ecc7fa00657ee41939a8a2df2dcfe4
+      internalID: -398493987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_14
+      rect:
+        serializedVersion: 2
+        x: 3304
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd14dd50c75f66a409b5a21de0ccfcf1
+      internalID: -2066506098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_15
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41339ddb384050342b315ffeb46a0260
+      internalID: 1817687838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_16
+      rect:
+        serializedVersion: 2
+        x: 3776
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66060ccce76163645a14abf58824ede0
+      internalID: -1427694791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_17
+      rect:
+        serializedVersion: 2
+        x: 4012
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b96fbd6e88950e740983574dddad1288
+      internalID: -752189470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_09_OrangePlant_C_18
+      rect:
+        serializedVersion: 2
+        x: 4248
+        y: 0
+        width: 236
+        height: 153
+      alignment: 9
+      pivot: {x: 0.2056808, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e73d09d74721fa0468d8df6fb549c0d6
+      internalID: -779507417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 5e34f0dbb5a474f4993dcd4c631bc753, type: 3}
+      name: _NormalMap
+    - texture: {fileID: 2800000, guid: 526b71cb02310044899fcf90194bbd2e, type: 3}
+      name: _MaskTex
+    nameFileIdTable:
+      Unit_Attack_09_OrangePlant_C_0: -165252644
+      Unit_Attack_09_OrangePlant_C_1: -1280205979
+      Unit_Attack_09_OrangePlant_C_10: -1277825871
+      Unit_Attack_09_OrangePlant_C_11: -1286294361
+      Unit_Attack_09_OrangePlant_C_12: 1813803131
+      Unit_Attack_09_OrangePlant_C_13: -398493987
+      Unit_Attack_09_OrangePlant_C_14: -2066506098
+      Unit_Attack_09_OrangePlant_C_15: 1817687838
+      Unit_Attack_09_OrangePlant_C_16: -1427694791
+      Unit_Attack_09_OrangePlant_C_17: -752189470
+      Unit_Attack_09_OrangePlant_C_18: -779507417
+      Unit_Attack_09_OrangePlant_C_2: -276920952
+      Unit_Attack_09_OrangePlant_C_3: -1058895592
+      Unit_Attack_09_OrangePlant_C_4: -1457222886
+      Unit_Attack_09_OrangePlant_C_5: 1050999469
+      Unit_Attack_09_OrangePlant_C_6: 1928029879
+      Unit_Attack_09_OrangePlant_C_7: 1824536624
+      Unit_Attack_09_OrangePlant_C_8: 65603788
+      Unit_Attack_09_OrangePlant_C_9: 1770854678
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d20b48783e805944fa3564384cf73575, type: 3}
+  m_Name: Storage_Test
+  m_EditorClassIdentifier: 
+  ID: TempStorage
+  Thumbnail: {fileID: 21300000, guid: 69b1ce524ec89e74dace1071f9d8eac2, type: 3}
+  Storages:
+  - Name: "\uC784\uC2DC \uC800\uC7A5\uC18C"
+    Thumbnail: {fileID: 21300000, guid: ac6eb0c3fee02704f904d9d0bc26512e, type: 3}
+    MaxStorage: 1500
+    Price: 1000
+  - Name: "\uC784\uC2DC \uC800\uC7A5\uC18C"
+    Thumbnail: {fileID: 21300000, guid: 727f767ed3a3fa747980740fe5aa136d, type: 3}
+    MaxStorage: 2500
+    Price: 1500
+  - Name: "\uC784\uC2DC \uC800\uC7A5\uC18C"
+    Thumbnail: {fileID: 21300000, guid: c48506498b983ce448a42213e5952fa7, type: 3}
+    MaxStorage: 3500
+    Price: 2000

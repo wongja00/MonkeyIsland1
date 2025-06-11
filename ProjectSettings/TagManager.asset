@@ -1,0 +1,84 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - BananaPile
+  - Storage
+  - Monkey
+  - Tile
+  - UICamera
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - monkey
+  - Fog
+  - Tile
+  - Focus
+  - Building
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: NNM
+    uniqueID: 1256910231
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Sky
+    uniqueID: 2048117229
+    locked: 0
+  - name: Far
+    uniqueID: 164153083
+    locked: 0
+  - name: Middle
+    uniqueID: 3510229211
+    locked: 0
+  - name: Near
+    uniqueID: 4045075521
+    locked: 0
+  - name: Building
+    uniqueID: 1436840655
+    locked: 0
+  - name: BackEffect
+    uniqueID: 1828562313
+    locked: 0
+  - name: Tile
+    uniqueID: 53249641
+    locked: 0
+  - name: Monkey
+    uniqueID: 3529567369
+    locked: 0
+  - name: EnvEvent
+    uniqueID: 213183645
+    locked: 0
+  - name: FrontEffect
+    uniqueID: 1213971487
+    locked: 0
+  - name: UI
+    uniqueID: 772983011
+    locked: 0

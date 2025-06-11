@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40cd800b331303242b97f3bb79a674aa, type: 3}
+  m_Name: TestProductContaner 5
+  m_EditorClassIdentifier: 
+  ID: BananaChip_Cook
+  Thumbnail: {fileID: 21300000, guid: 8a70ce4b0f0ce0f43839bf62f2665906, type: 3}
+  Name: "\uBC14\uB098\uB098 \uD280\uAE40"
+  BananaCount: 700
+  Time: 20
+  Price: 108000

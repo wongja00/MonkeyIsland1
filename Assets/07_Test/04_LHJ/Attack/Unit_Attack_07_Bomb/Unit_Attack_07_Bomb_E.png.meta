@@ -1,0 +1,624 @@
+fileFormatVersion: 2
+guid: 8b445bcd1673bd54f9473defbd1f58c4
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c28aa576509fe4bbb0b8196f00e421
+      internalID: 657706789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_1
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 172
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28715ef3ddc107c4cb80665675fe61aa
+      internalID: -1889712212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_2
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 172
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91f9edc506cd98e43b14aab21c86aa66
+      internalID: 794494187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_3
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 172
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b76c283d612fa96469e399573112b617
+      internalID: -1006201804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_4
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 172
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bed8042390dd0ca47a5bf78de3663649
+      internalID: 1674530123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_5
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 172
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350fa26b38376014796b0c95c8b61227
+      internalID: 2022094747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_6
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 172
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7650ccb3e57736649a16ea221a952d58
+      internalID: 424717385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_7
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 172
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d23c8ff0ab88b38409b1b93331d3ca23
+      internalID: 165318792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 86
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e833cf85ead6fe440a2814b5d4c690ff
+      internalID: -1377628043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_9
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 86
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 265b9eea7b986dd4588b828c7621c098
+      internalID: 1174186907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_10
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 86
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8564dde85a58848bddde96f0b6fdf4
+      internalID: 2050568672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_11
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 86
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a78f4a6d28d6c243871c38d30b0313f
+      internalID: 621756171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_12
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 86
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0171a96f0ab7ff408be0f40a1145f37
+      internalID: -1290352486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_13
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 86
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1dbad548fc678b408e2152174dc14ab
+      internalID: 952279406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_14
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 86
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173c825bc3ca4b04ba28a6a74447fe02
+      internalID: 1976665002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_15
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 86
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1529c6d3ad3bfad47a25c5778f043604
+      internalID: 2072036212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19cea722f0f65c4291c61d7956067bb
+      internalID: -414574266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_17
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 0
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5708b1710fc7da34199abb722fcb3930
+      internalID: 1200720158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_18
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 0
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8eded93b93c8a49a51b2c0417ec69c
+      internalID: -374440576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_19
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 0
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790dbab8338090b49934a616fb848dec
+      internalID: -1105920750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_20
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 0
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6e0931d98d34004aa068adeb8a1d1bc
+      internalID: -358413970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_21
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7275584f899d5e542bb6fa65963f8f33
+      internalID: 175968984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_07_Bomb_E_22
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 0
+        width: 116
+        height: 86
+      alignment: 9
+      pivot: {x: 0.7577061, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb77ef96765dcbf42852df93ed49257c
+      internalID: 2007866924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 9a756867d30e04b44960185b84fb017b, type: 3}
+      name: _NormalMap
+    - texture: {fileID: 2800000, guid: 75e4fe006cdb2e04da96e3d17b7ccd44, type: 3}
+      name: _MaskTex
+    nameFileIdTable:
+      Unit_Attack_07_Bomb_E_0: 657706789
+      Unit_Attack_07_Bomb_E_1: -1889712212
+      Unit_Attack_07_Bomb_E_10: 2050568672
+      Unit_Attack_07_Bomb_E_11: 621756171
+      Unit_Attack_07_Bomb_E_12: -1290352486
+      Unit_Attack_07_Bomb_E_13: 952279406
+      Unit_Attack_07_Bomb_E_14: 1976665002
+      Unit_Attack_07_Bomb_E_15: 2072036212
+      Unit_Attack_07_Bomb_E_16: -414574266
+      Unit_Attack_07_Bomb_E_17: 1200720158
+      Unit_Attack_07_Bomb_E_18: -374440576
+      Unit_Attack_07_Bomb_E_19: -1105920750
+      Unit_Attack_07_Bomb_E_2: 794494187
+      Unit_Attack_07_Bomb_E_20: -358413970
+      Unit_Attack_07_Bomb_E_21: 175968984
+      Unit_Attack_07_Bomb_E_22: 2007866924
+      Unit_Attack_07_Bomb_E_3: -1006201804
+      Unit_Attack_07_Bomb_E_4: 1674530123
+      Unit_Attack_07_Bomb_E_5: 2022094747
+      Unit_Attack_07_Bomb_E_6: 424717385
+      Unit_Attack_07_Bomb_E_7: 165318792
+      Unit_Attack_07_Bomb_E_8: -1377628043
+      Unit_Attack_07_Bomb_E_9: 1174186907
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

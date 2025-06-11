@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c390ea0446ac574ea47434be77dc796, type: 3}
+  m_Name: 01_TestBasket_Monckey
+  m_EditorClassIdentifier: 
+  ID: Basket_Monckey
+  Thumbnail: {fileID: 7298291825165075008, guid: 1e7db061ec16e7c4ca00965ce21fcb00, type: 3}
+  Units:
+  - Thumbnail: {fileID: 7298291825165075008, guid: 1e7db061ec16e7c4ca00965ce21fcb00, type: 3}
+    Name: "\uAE30\uBCF8 \uC6D0\uC22D\uC774 1"
+    Pow: 3
+    Speed: 20
+    Price: 100
+    PowState: 1
+    SpeedState: 1
+  - Thumbnail: {fileID: 7298291825165075008, guid: 1e7db061ec16e7c4ca00965ce21fcb00, type: 3}
+    Name: "\uAE30\uBCF8 \uC6D0\uC22D\uC774 1"
+    Pow: 10
+    Speed: 10
+    Price: 100
+    PowState: 2
+    SpeedState: 2
+  - Thumbnail: {fileID: 7298291825165075008, guid: 1e7db061ec16e7c4ca00965ce21fcb00, type: 3}
+    Name: "\uAE30\uBCF8 \uC6D0\uC22D\uC774 1"
+    Pow: 15
+    Speed: 8
+    Price: 100
+    PowState: 3
+    SpeedState: 3

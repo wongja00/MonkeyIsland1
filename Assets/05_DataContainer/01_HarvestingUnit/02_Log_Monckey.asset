@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c390ea0446ac574ea47434be77dc796, type: 3}
+  m_Name: 02_Log_Monckey
+  m_EditorClassIdentifier: 
+  ID: Log_Monckey
+  Thumbnail: {fileID: 21300000, guid: d405bfc76a9eb9a49af8b7a5d55ba9d4, type: 3}
+  Units:
+  - Thumbnail: {fileID: 21300000, guid: d405bfc76a9eb9a49af8b7a5d55ba9d4, type: 3}
+    Name: "\uB098\uBB34 \uAD74\uB9AC\uB294 \uC6D0\uC22D\uC774"
+    Pow: 100
+    Speed: 100
+    Price: 100
+    PowState: 2
+    SpeedState: 1
+  - Thumbnail: {fileID: 21300000, guid: d405bfc76a9eb9a49af8b7a5d55ba9d4, type: 3}
+    Name: "\uBC14\uC704 \uAD74\uB9AC\uB294 \uC6D0\uC22D\uC774"
+    Pow: 100
+    Speed: 100
+    Price: 100
+    PowState: 3
+    SpeedState: 1
+  - Thumbnail: {fileID: 21300000, guid: d405bfc76a9eb9a49af8b7a5d55ba9d4, type: 3}
+    Name: "\uD3ED\uD0C4 \uAD74\uB9AC\uB294 \uC6D0\uC22D\uC774"
+    Pow: 100
+    Speed: 100
+    Price: 100
+    PowState: 4
+    SpeedState: 1

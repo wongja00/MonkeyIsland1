@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 999ec6f3c3002a245a0cb50d05d6ce3b, type: 3}
+  m_Name: SkillContaner 5
+  m_EditorClassIdentifier: 
+  ID: MM
+  Thumbnail: {fileID: -1245727226, guid: 667a3be7d8cfbcb4098acf32a6f8ab4a, type: 3}
+  Skilldata:
+  - Name: "\uBE4C\uB529"
+    ID: 5

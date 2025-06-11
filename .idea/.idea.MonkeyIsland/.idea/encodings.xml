@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise">
+    <file url="file://$PROJECT_DIR$/Assets/04_Script/Data/DataContainer/DataContainer.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/04_Script/Data/DataManager.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/04_Script/Data/ShopManager.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/04_Script/UI/Pannal/Storage/StorageUIManager.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/Advertisement/RewardAd.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/Cycle/BananaManager/BananaManager.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/Decorate/DecorateManager.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/Decorate/DecorateTile.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/Decorate/TileMap.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/MiniGames/MiniGameManager.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/Rebirth/RebirthManager.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/Sudden Event/MonkeyEventManager.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/Sudden Event/MonkeyPostEventManager.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/Tool/CSVToSciptableObject.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/Tool/TIleMapGenerator.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/UI/Building/BuildingCard.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/UI/Product/ProductUIManager.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/UI/Quest/QuestCard.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/UI/UIFlip.cs" charset="x-windows-949" />
+    <file url="file://$PROJECT_DIR$/Assets/07_Test/01_KSJ/Scripts/Util/CSVParserManager.cs" charset="x-windows-949" />
+    <file url="PROJECT" charset="x-windows-949" />
+  </component>
+</project>

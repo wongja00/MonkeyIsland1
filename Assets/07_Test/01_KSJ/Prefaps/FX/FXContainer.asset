@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70c1f387d71263d48a7b445f365f76e9, type: 3}
+  m_Name: FXContainer
+  m_EditorClassIdentifier: 
+  harvesters:
+  - ID: 1
+    prefab: {fileID: 1945623165699742324, guid: 0cb1d1f6770a16d4f996d94ee20f24a1, type: 3}
+  - ID: 2
+    prefab: {fileID: 490728196792969885, guid: beed8c89399016d4091341d922e95f53, type: 3}
+  - ID: 3
+    prefab: {fileID: 2651116436351403033, guid: bdd54fc0b25efff42bdb3e1f63973e23, type: 3}
+  - ID: 4
+    prefab: {fileID: 6594244121897090992, guid: fef73d7118d946844a8374a8b0da3287, type: 3}
+  - ID: 5
+    prefab: {fileID: 5072364454068537634, guid: d8bb7ffd534b03946a3e7ee9f187d2e2, type: 3}
+  - ID: 6
+    prefab: {fileID: 6022598608524163773, guid: 04cd750e1cdf2224396e8e476221a39e, type: 3}

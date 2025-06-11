@@ -1,0 +1,1581 @@
+fileFormatVersion: 2
+guid: 6e648d324fad17149a3047feeaf52c6c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1705.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf7795724ff2223418c002b6015fd3ab
+      internalID: -554774763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_1
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1705.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc4dffb3d7cac746a488d5310d9c706
+      internalID: -103595117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_2
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1705.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88860a3d266b414ca4e02d2214e9ba7
+      internalID: -1570624879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1705.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31352b7f8fba4a3488895cb307c995d2
+      internalID: 1995407423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_4
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1705.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f480ae73b42473042ab843bab7f6cfce
+      internalID: 635822201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_5
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1705.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f261c280baab50446a00c54d6504c1c2
+      internalID: -186370848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_6
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1705.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7feab9b82b1f5446a4c8734ed53880b
+      internalID: -125835401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_7
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1705.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0154ffbe2075b7f4dac16a4738252567
+      internalID: 2143803224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_8
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1705.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54a9de956a84eff4087673d4571ebdb4
+      internalID: -1821563958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_9
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1705.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32df054b22b94494f8c32581653f5279
+      internalID: 2140323840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_10
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 1705.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.16}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff0ae3eeb52bb7845a817ae8926d1f40
+      internalID: -1226359456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1364.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53b38592b4c6fec4889cf7fa736da8f1
+      internalID: -1565661883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1364.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c545c24719d3d9449c35a2334b72406
+      internalID: -1762485865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_13
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1364.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c30541dfa7ffa4d8fc541470c5b170
+      internalID: 1153314562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_14
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1364.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5edc18dbd4183841b44e364d545d5c4
+      internalID: 2095013609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_15
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1364.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4eff33309407e704e9e97ae1550c2a3f
+      internalID: -809426898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_16
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1364.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9b990c202f6c9545aeea29620829336
+      internalID: 1603038625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_17
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1364.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7bd1e2ebc6e92f4a9e4b01dd0de2979
+      internalID: 217157690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_18
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1364.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f2addf19c9fe324a9290006456ee1bd
+      internalID: 1465672803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_19
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1364.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 778e753cd4a28d040b2148c875c97114
+      internalID: -1464115727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_20
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1364.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d32e4ea1009e4a41bc65b9d3853d35a
+      internalID: 563392302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_21
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 1367
+        width: 265
+        height: 341
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17270dad2fc9bc244b670b9b741af294
+      internalID: -2083406196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 044c35d1eeabd244bafd768b866a3a5c
+      internalID: -2023665487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_23
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1023.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7ab9a88aa1e68542be7e0a0562eec2d
+      internalID: -761987294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_24
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1023.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4840040f36a202c478505ee8e76b5756
+      internalID: -1800898174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_25
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1023.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a711de7cfb02125469a793bd8a601c57
+      internalID: -1953130213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_26
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1023.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25ca02e766557a74495ccaa08dfd592c
+      internalID: -1422181776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_27
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 1023.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3740a969ee2af124cbc4ec568a93104c
+      internalID: 1982261677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_28
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1023.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3819fe356c1622d4790603745a0011f3
+      internalID: -1546913129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_29
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 1023.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cc8694d7feed864c96017410b2516aa
+      internalID: -307963226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_30
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 1023.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cb6fae18841db545841723a690522f6
+      internalID: -517022170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_31
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 1023.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211413006d337e345aba17ce49695ea6
+      internalID: 2121426817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_32
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 1023.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.11}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f6b0a1939610fd488a0ed94a948eef8
+      internalID: -1214618544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 682.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36e01edfa401d94584f5fcc531381b2
+      internalID: 1145630304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_34
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 682.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7866d55a7cbdf3b458693fe0345e712c
+      internalID: 2135932054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_35
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 682.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed8305fe8b10b349a2cbd78518b6a64
+      internalID: -1840211602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_36
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 682.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 836bba3dfda18f542ba3fcb6534b3178
+      internalID: -1572314912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_37
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 682.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3d36001ac471e84eb6ef0fbe9704bdc
+      internalID: -1983743267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_38
+      rect:
+        serializedVersion: 2
+        x: 1322
+        y: 683
+        width: 265
+        height: 341
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a01f58f8843eb954795f46b55014b6e1
+      internalID: -2053185964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_39
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 682.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92d9bdd3008fe4e49ab77a1f957550bb
+      internalID: 1709153793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_40
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 682.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b8be19f89d03e40b3fba812bb617f6
+      internalID: -2087533960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_41
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 682.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 104d4873182bb41489030df32a8c67eb
+      internalID: -1179285610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_42
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 682.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb99d9400691c1c42967ae757a1b4641
+      internalID: -1257925946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_43
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 682.8334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.08}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00a72632009de3e4d86641cfe1915496
+      internalID: 414897847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 341.83334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f501228c7e0f2c5438768aae04b5c490
+      internalID: -456553285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_45
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 341.83334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e934b9e27f2059449b41c25da2aaa291
+      internalID: -1973894370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_46
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 341.83334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16698247a95c82c48a88d7056ee32262
+      internalID: -1308156383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_47
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 341.83334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c07cff7667148ec4b82a62a1486852b9
+      internalID: 47255633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_48
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 341.83334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9b9f1c05cf07644382e3b7fed4ce941
+      internalID: -1897922486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_49
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 341.83334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4806266f03b868147b357bf086d501f6
+      internalID: 594564559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_50
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 341.83334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0168aa5ba1bb441488616739febf701f
+      internalID: 1304934061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_51
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 341.83334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0f909f8cd7d10442a5af19960ca5d5d
+      internalID: 773070790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_52
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 341.83334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e7eb091207704409b88accee8baeb8
+      internalID: 2031461278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_53
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 341.83334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9189230f4748a42b08c48a7464937a
+      internalID: 1800750330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_54
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 341.83334
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.06}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2183f52e8e9d1d42bfe8116bb15d8cb
+      internalID: 167306467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0.8333435
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb94cd5698f161f4da4093f39cc26491
+      internalID: -467403713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_56
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0.8333435
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7761b5b6d8ae840a66d145bd5ab7ae
+      internalID: 2031475492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_57
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 0.8333435
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 102c7ee34c3e6ce4a84c5b65c4a6e283
+      internalID: 1719057279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_58
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 0.8333435
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f98b1481056c3a46bd072b914aca80e
+      internalID: 567811086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_59
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 0.8333435
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a587e9d448c78bf4da4d1db5d9799a6d
+      internalID: 167630090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_60
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0.8333435
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52a8ee4022d62b742bc7e08531faf511
+      internalID: -1585461310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_61
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 0.8333435
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7385e4b63f601514a9be71099a6fd7b3
+      internalID: -1434652301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_62
+      rect:
+        serializedVersion: 2
+        x: 1855
+        y: 0.8333435
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4e441fc997dda46accdc33460ff28d
+      internalID: 1524904031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_63
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 0.8333435
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5bce8eaff99e864a84f2d74f84d5923
+      internalID: 499462956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_64
+      rect:
+        serializedVersion: 2
+        x: 2385
+        y: 0.8333435
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54eeb8ea0ba6e0b42b31a68e60ff16f0
+      internalID: 1450791941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_11_BronzeGolem_D_65
+      rect:
+        serializedVersion: 2
+        x: 2650
+        y: 0.8333435
+        width: 265
+        height: 341.16666
+      alignment: 9
+      pivot: {x: 0.5, y: 0.04}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d8f260cee3a253449b3afe3700b9728
+      internalID: -1086278314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: c50aae993625fa2429b14c2614ba798c, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Unit_Attack_11_BronzeGolem_D_0: -554774763
+      Unit_Attack_11_BronzeGolem_D_1: -103595117
+      Unit_Attack_11_BronzeGolem_D_10: -1226359456
+      Unit_Attack_11_BronzeGolem_D_11: -1565661883
+      Unit_Attack_11_BronzeGolem_D_12: -1762485865
+      Unit_Attack_11_BronzeGolem_D_13: 1153314562
+      Unit_Attack_11_BronzeGolem_D_14: 2095013609
+      Unit_Attack_11_BronzeGolem_D_15: -809426898
+      Unit_Attack_11_BronzeGolem_D_16: 1603038625
+      Unit_Attack_11_BronzeGolem_D_17: 217157690
+      Unit_Attack_11_BronzeGolem_D_18: 1465672803
+      Unit_Attack_11_BronzeGolem_D_19: -1464115727
+      Unit_Attack_11_BronzeGolem_D_2: -1570624879
+      Unit_Attack_11_BronzeGolem_D_20: 563392302
+      Unit_Attack_11_BronzeGolem_D_21: -2083406196
+      Unit_Attack_11_BronzeGolem_D_22: -2023665487
+      Unit_Attack_11_BronzeGolem_D_23: -761987294
+      Unit_Attack_11_BronzeGolem_D_24: -1800898174
+      Unit_Attack_11_BronzeGolem_D_25: -1953130213
+      Unit_Attack_11_BronzeGolem_D_26: -1422181776
+      Unit_Attack_11_BronzeGolem_D_27: 1982261677
+      Unit_Attack_11_BronzeGolem_D_28: -1546913129
+      Unit_Attack_11_BronzeGolem_D_29: -307963226
+      Unit_Attack_11_BronzeGolem_D_3: 1995407423
+      Unit_Attack_11_BronzeGolem_D_30: -517022170
+      Unit_Attack_11_BronzeGolem_D_31: 2121426817
+      Unit_Attack_11_BronzeGolem_D_32: -1214618544
+      Unit_Attack_11_BronzeGolem_D_33: 1145630304
+      Unit_Attack_11_BronzeGolem_D_34: 2135932054
+      Unit_Attack_11_BronzeGolem_D_35: -1840211602
+      Unit_Attack_11_BronzeGolem_D_36: -1572314912
+      Unit_Attack_11_BronzeGolem_D_37: -1983743267
+      Unit_Attack_11_BronzeGolem_D_38: -2053185964
+      Unit_Attack_11_BronzeGolem_D_39: 1709153793
+      Unit_Attack_11_BronzeGolem_D_4: 635822201
+      Unit_Attack_11_BronzeGolem_D_40: -2087533960
+      Unit_Attack_11_BronzeGolem_D_41: -1179285610
+      Unit_Attack_11_BronzeGolem_D_42: -1257925946
+      Unit_Attack_11_BronzeGolem_D_43: 414897847
+      Unit_Attack_11_BronzeGolem_D_44: -456553285
+      Unit_Attack_11_BronzeGolem_D_45: -1973894370
+      Unit_Attack_11_BronzeGolem_D_46: -1308156383
+      Unit_Attack_11_BronzeGolem_D_47: 47255633
+      Unit_Attack_11_BronzeGolem_D_48: -1897922486
+      Unit_Attack_11_BronzeGolem_D_49: 594564559
+      Unit_Attack_11_BronzeGolem_D_5: -186370848
+      Unit_Attack_11_BronzeGolem_D_50: 1304934061
+      Unit_Attack_11_BronzeGolem_D_51: 773070790
+      Unit_Attack_11_BronzeGolem_D_52: 2031461278
+      Unit_Attack_11_BronzeGolem_D_53: 1800750330
+      Unit_Attack_11_BronzeGolem_D_54: 167306467
+      Unit_Attack_11_BronzeGolem_D_55: -467403713
+      Unit_Attack_11_BronzeGolem_D_56: 2031475492
+      Unit_Attack_11_BronzeGolem_D_57: 1719057279
+      Unit_Attack_11_BronzeGolem_D_58: 567811086
+      Unit_Attack_11_BronzeGolem_D_59: 167630090
+      Unit_Attack_11_BronzeGolem_D_6: -125835401
+      Unit_Attack_11_BronzeGolem_D_60: -1585461310
+      Unit_Attack_11_BronzeGolem_D_61: -1434652301
+      Unit_Attack_11_BronzeGolem_D_62: 1524904031
+      Unit_Attack_11_BronzeGolem_D_63: 499462956
+      Unit_Attack_11_BronzeGolem_D_64: 1450791941
+      Unit_Attack_11_BronzeGolem_D_65: -1086278314
+      Unit_Attack_11_BronzeGolem_D_7: 2143803224
+      Unit_Attack_11_BronzeGolem_D_8: -1821563958
+      Unit_Attack_11_BronzeGolem_D_9: 2140323840
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

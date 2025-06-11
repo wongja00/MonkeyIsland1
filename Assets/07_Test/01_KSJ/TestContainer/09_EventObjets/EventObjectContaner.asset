@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 40270cc3fc02ec04fa40d92720455dc1, type: 3}
+  m_Name: EventObjectContaner
+  m_EditorClassIdentifier: 
+  ID: 1
+  Thumbnail: {fileID: 21300000, guid: aa68a3f37bb25404db0c61a3255eb69e, type: 3}
+  EventObjectData:
+  - Name: "\uBC30\uACBD\uC774\uBCA4\uD2B8"
+    Thumbnail: {fileID: 69254653, guid: 2975bdc44589ffa4b9e34d1e3dc0f960, type: 3}

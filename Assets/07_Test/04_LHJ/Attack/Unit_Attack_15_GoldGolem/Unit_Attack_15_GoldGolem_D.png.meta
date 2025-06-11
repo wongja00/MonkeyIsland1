@@ -1,0 +1,899 @@
+fileFormatVersion: 2
+guid: 1c31c1f1215d5c943887dfb05e65c384
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1488
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e225abbc5f797d4c953365b14aa778f
+      internalID: -1926004359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_1
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1488
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4994a8884314944ca24f9ec82205404
+      internalID: 575261859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_2
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1488
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d51232bc20f9f54aa51ca0ab6666362
+      internalID: -1021645030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_3
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1488
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ab3d03f0549d484cbfc04beb0b37282
+      internalID: 73306108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_4
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1488
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74466af819659e947bf172f58c0e6c5e
+      internalID: -1111246471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_5
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1488
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1f4a4974fb361a40ab6a01ebe5b3122
+      internalID: -1874538328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_6
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1488
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40972f6a77e4f6246be255c04db5a210
+      internalID: -797200311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1116
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5958f81f665bf6d4c811236db8b78536
+      internalID: 561828176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_8
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1116
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 746460afb2f8d6c4ab9127c5290756a3
+      internalID: 1411703248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_9
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1116
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 096d9ec85642a834a8101324af3845a1
+      internalID: -1050264571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_10
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 1116
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b9c039d0fe826458050769742e6d73
+      internalID: -860982980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_11
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 1116
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3608321314310429cc1dc1329971cc
+      internalID: 626860922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_12
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 1116
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7f816d77380dfe49aa4d7d71751bdac
+      internalID: 2094176057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_13
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 1116
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4afcb3927bf047a47b2d734ffc5c31f5
+      internalID: -860372673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 744
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef862ead953a52f4eaa3699b7b841d4b
+      internalID: 1634096078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_15
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 744
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b13966550902f4ba7bb5e45be01473
+      internalID: -1312424935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_16
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 744
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff71a88d48d0d3549be1006872fe4467
+      internalID: 2054593325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_17
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 744
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b37f9fb5967655f47bd5307be02bcd02
+      internalID: 2068701723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_18
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 744
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9614d35a2a1e91a45ae653f1c62c2eac
+      internalID: 442631482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_19
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 744
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35f17a00390013340b59ea8b3c366d37
+      internalID: 2047670743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_20
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 744
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8198acebe237404a8d9ad7afcc2383f
+      internalID: -814881764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 372
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df16a4d12c045a74598687699be2711b
+      internalID: -1515798277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_22
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 372
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881eb1b185ede72429401b64e8f3c715
+      internalID: 1518338932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_23
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 372
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12268ca4559d28648aebfe46d4f2d08f
+      internalID: -672784451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_24
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 372
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f38c9aa714ac8a439667240e1314297
+      internalID: -1183898653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_25
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 372
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b80e90855f245d04f9013293b3d6e95e
+      internalID: -1158524946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_26
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 372
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d540b750652c1f49bf826cf94f8b4f6
+      internalID: -30364104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_27
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 372
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.07}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d66e81b50b83ba247aa8ce2705843e79
+      internalID: -616569444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_28
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1607aba1a3c77ae43b3f44d8ad54418e
+      internalID: -516538144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_29
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 0
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c1dd2d41e0a94479093376e919cceb
+      internalID: -2039697326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_30
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 0
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7105b55360a393342b5408ff89bfb1d2
+      internalID: -1717140333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_31
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 0
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9e8485e4e0a2f64dae99bdab04f6ae8
+      internalID: -463684869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_32
+      rect:
+        serializedVersion: 2
+        x: 1360
+        y: 0
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02fd0f409734d0641935cbc598a5f90a
+      internalID: 1708031002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_33
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 004bed51bd7b075408796d2c788830b8
+      internalID: 570092450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Unit_Attack_15_GoldGolem_D_34
+      rect:
+        serializedVersion: 2
+        x: 2040
+        y: 0
+        width: 340
+        height: 372
+      alignment: 9
+      pivot: {x: 0.5, y: 0.13}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d5367006ed5cef4d9971407466c94a9
+      internalID: 575974460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures:
+    - texture: {fileID: 2800000, guid: 07ccea8153f1195468f1ce8d310fe25d, type: 3}
+      name: _NormalMap
+    nameFileIdTable:
+      Unit_Attack_15_GoldGolem_D_0: -1926004359
+      Unit_Attack_15_GoldGolem_D_1: 575261859
+      Unit_Attack_15_GoldGolem_D_10: -860982980
+      Unit_Attack_15_GoldGolem_D_11: 626860922
+      Unit_Attack_15_GoldGolem_D_12: 2094176057
+      Unit_Attack_15_GoldGolem_D_13: -860372673
+      Unit_Attack_15_GoldGolem_D_14: 1634096078
+      Unit_Attack_15_GoldGolem_D_15: -1312424935
+      Unit_Attack_15_GoldGolem_D_16: 2054593325
+      Unit_Attack_15_GoldGolem_D_17: 2068701723
+      Unit_Attack_15_GoldGolem_D_18: 442631482
+      Unit_Attack_15_GoldGolem_D_19: 2047670743
+      Unit_Attack_15_GoldGolem_D_2: -1021645030
+      Unit_Attack_15_GoldGolem_D_20: -814881764
+      Unit_Attack_15_GoldGolem_D_21: -1515798277
+      Unit_Attack_15_GoldGolem_D_22: 1518338932
+      Unit_Attack_15_GoldGolem_D_23: -672784451
+      Unit_Attack_15_GoldGolem_D_24: -1183898653
+      Unit_Attack_15_GoldGolem_D_25: -1158524946
+      Unit_Attack_15_GoldGolem_D_26: -30364104
+      Unit_Attack_15_GoldGolem_D_27: -616569444
+      Unit_Attack_15_GoldGolem_D_28: -516538144
+      Unit_Attack_15_GoldGolem_D_29: -2039697326
+      Unit_Attack_15_GoldGolem_D_3: 73306108
+      Unit_Attack_15_GoldGolem_D_30: -1717140333
+      Unit_Attack_15_GoldGolem_D_31: -463684869
+      Unit_Attack_15_GoldGolem_D_32: 1708031002
+      Unit_Attack_15_GoldGolem_D_33: 570092450
+      Unit_Attack_15_GoldGolem_D_34: 575974460
+      Unit_Attack_15_GoldGolem_D_4: -1111246471
+      Unit_Attack_15_GoldGolem_D_5: -1874538328
+      Unit_Attack_15_GoldGolem_D_6: -797200311
+      Unit_Attack_15_GoldGolem_D_7: 561828176
+      Unit_Attack_15_GoldGolem_D_8: 1411703248
+      Unit_Attack_15_GoldGolem_D_9: -1050264571
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

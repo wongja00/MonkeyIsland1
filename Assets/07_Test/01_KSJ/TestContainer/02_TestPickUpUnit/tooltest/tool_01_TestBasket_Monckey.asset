@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c390ea0446ac574ea47434be77dc796, type: 3}
+  m_Name: tool_01_TestBasket_Monckey
+  m_EditorClassIdentifier: 
+  ID: 16
+  Thumbnail: {fileID: 7298291825165075008, guid: 1e7db061ec16e7c4ca00965ce21fcb00, type: 3}
+  code: 16
+  MonkeyIndex: 0
+  MaxHire: 0
+  Units:
+  - Thumbnail: {fileID: 21300000, guid: 686ea528b241fcf449badba7066fc59d, type: 3}
+    Name: "\uBC14\uAD6C\uB2C8 \uC6D0\uC22D\uC774_Lv1"
+    Pow: 3
+    Speed: 15
+    Price: 100
+    PowState: 1
+    SpeedState: 1

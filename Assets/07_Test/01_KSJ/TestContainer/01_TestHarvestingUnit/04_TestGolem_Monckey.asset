@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c390ea0446ac574ea47434be77dc796, type: 3}
+  m_Name: 04_TestGolem_Monckey
+  m_EditorClassIdentifier: 
+  ID: Golem_Monckey
+  Thumbnail: {fileID: 21300000, guid: 7c0ff6ee1fa269d45a8113133775769e, type: 3}
+  Units:
+  - Thumbnail: {fileID: 21300000, guid: d6763da3335548142b45e307b7fb76b2, type: 3}
+    Name: "\uB098\uBB34 \uACE8\uB818 \uC6D0\uC22D\uC774"
+    Pow: 15
+    Speed: 10
+    Price: 100
+    PowState: 3
+    SpeedState: 3
+  - Thumbnail: {fileID: 21300000, guid: d6763da3335548142b45e307b7fb76b2, type: 3}
+    Name: "\uB3CC \uACE8\uB818 \uC6D0\uC22D\uC774"
+    Pow: 18
+    Speed: 8
+    Price: 100
+    PowState: 4
+    SpeedState: 3
+  - Thumbnail: {fileID: 21300000, guid: d6763da3335548142b45e307b7fb76b2, type: 3}
+    Name: "\uD654\uB824\uD55C \uACE8\uB818 \uC6D0\uC2B9\uC774"
+    Pow: 23
+    Speed: 5
+    Price: 100
+    PowState: 5
+    SpeedState: 3

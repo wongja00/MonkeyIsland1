@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 70c1f387d71263d48a7b445f365f76e9, type: 3}
+  m_Name: HarvestUnitContainer
+  m_EditorClassIdentifier: 
+  harvesters:
+  - ID: 1
+    prefab: {fileID: 7445344084828209016, guid: de378f49c078c8c49a9124f0833c7510, type: 3}
+  - ID: 2
+    prefab: {fileID: 2519492763775087850, guid: daa59fb0e6ebdbb4a80eb556b504d25d, type: 3}
+  - ID: 3
+    prefab: {fileID: 3207430472626854111, guid: d375e2fdfb411844dae638f9492f7cd2, type: 3}
+  - ID: 4
+    prefab: {fileID: 3361589644757697709, guid: 536378018ae66084384850216467c9ea, type: 3}
+  - ID: 5
+    prefab: {fileID: 992686365069912871, guid: a09ec7235cecd5d4c92f90d589992057, type: 3}
+  - ID: 6
+    prefab: {fileID: 5432607106461894430, guid: d59ae9331faa2da4ab3c48aa75406345, type: 3}
+  - ID: 7
+    prefab: {fileID: 828483878221983959, guid: 48eb645bc32ab604eaae654dc7f7a1f2, type: 3}
+  - ID: 8
+    prefab: {fileID: 8162206598539119137, guid: b4db2a0d13c1ffa47950dca536ffad29, type: 3}
+  - ID: 9
+    prefab: {fileID: 5031517514632196112, guid: 7098d8014cba5de4187aa63e313875f1, type: 3}
+  - ID: 10
+    prefab: {fileID: 2176814692840408096, guid: 7e422622ebe4fa843a10031a1f07a6cd, type: 3}
+  - ID: 11
+    prefab: {fileID: 6956635629961907650, guid: d14b1ded1799ebf47923cd847d4c6b0b, type: 3}
+  - ID: 12
+    prefab: {fileID: 1121975170677638914, guid: 4727e0a37c75d0b4f95181b468179426, type: 3}
+  - ID: 13
+    prefab: {fileID: 6566191708942349768, guid: 494d967e3023d384cbad66d3afeae741, type: 3}
+  - ID: 14
+    prefab: {fileID: 5712317467649006193, guid: 2d6f5d5171aa5e04e91d639705e5f920, type: 3}
+  - ID: 15
+    prefab: {fileID: 6162075242351373228, guid: 9d09c705b2e11054db736c85999bacec, type: 3}

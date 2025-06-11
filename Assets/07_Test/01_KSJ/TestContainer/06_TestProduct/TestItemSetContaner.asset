@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3b3be48fdf0a9284e9d11892baa7c29f, type: 3}
+  m_Name: TestItemSetContaner
+  m_EditorClassIdentifier: 
+  ItemContaner:
+  - {fileID: 11400000, guid: 9f705fe99543e2b4c99c3dde4fadb032, type: 2}
+  - {fileID: 11400000, guid: 3ff6fd586321d364680d8ca2126af8f4, type: 2}
+  - {fileID: 11400000, guid: e31e226f7209cca4194f92c353065f5e, type: 2}
+  - {fileID: 11400000, guid: ba87f8a5baa907b418f06e5f77882636, type: 2}
+  - {fileID: 11400000, guid: 32b92503cd3815a4c8c45b81a527fd4d, type: 2}
+  - {fileID: 11400000, guid: 08cacb14b8757a3449fc24c17bb4b1db, type: 2}
+  - {fileID: 11400000, guid: 296331e2b6c426247adab2f8392a1e1e, type: 2}
+  - {fileID: 11400000, guid: 45b3ab80528e5c84e83e1df7f04f3508, type: 2}
+  - {fileID: 11400000, guid: 0e918e96b514c7840ab49bd1a33484b0, type: 2}

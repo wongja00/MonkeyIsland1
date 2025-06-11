@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bd2c3efb877600c4f9e7599e1f717bfa, type: 3}
+  m_Name: SoundContaner
+  m_EditorClassIdentifier: 
+  SoundList:
+  - Code: 1
+    Name: 
+    Description: 
+    Delay: 0.001
+    isLoop: 0
+    SoundKind: 0
+    Sound: {fileID: 0}
+  - Code: 2
+    Name: 
+    Description: 
+    Delay: 0
+    isLoop: 0
+    SoundKind: 0
+    Sound: {fileID: 0}
+  - Code: 3
+    Name: 
+    Description: 
+    Delay: 0
+    isLoop: 0
+    SoundKind: 0
+    Sound: {fileID: 0}
+  - Code: 0
+    Name: 
+    Description: 
+    Delay: 0
+    isLoop: 0
+    SoundKind: 0
+    Sound: {fileID: 0}
+  - Code: 0
+    Name: 
+    Description: 
+    Delay: 0
+    isLoop: 0
+    SoundKind: 0
+    Sound: {fileID: 0}
+  - Code: 0
+    Name: 
+    Description: 
+    Delay: 0
+    isLoop: 0
+    SoundKind: 0
+    Sound: {fileID: 0}
+  - Code: 0
+    Name: 
+    Description: 
+    Delay: 0
+    isLoop: 0
+    SoundKind: 0
+    Sound: {fileID: 0}
+  - Code: 0
+    Name: 
+    Description: 
+    Delay: 0
+    isLoop: 0
+    SoundKind: 0
+    Sound: {fileID: 0}
+  - Code: 0
+    Name: 
+    Description: 
+    Delay: 0
+    isLoop: 0
+    SoundKind: 0
+    Sound: {fileID: 0}
+  - Code: 0
+    Name: 
+    Description: 
+    Delay: 0
+    isLoop: 0
+    SoundKind: 0
+    Sound: {fileID: 0}

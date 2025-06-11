@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c390ea0446ac574ea47434be77dc796, type: 3}
+  m_Name: tool_02_Log_Toll_Test 2
+  m_EditorClassIdentifier: 
+  ID: 6
+  Thumbnail: {fileID: 402399541, guid: 5345b8f3e0376634eadad2654c876000, type: 3}
+  code: 6
+  MonkeyIndex: 0
+  MaxHire: 0
+  Units:
+  - Thumbnail: {fileID: 21300000, guid: f6cfb02032a7df14f9c386e16aa20c93, type: 3}
+    Name: "\uAD74\uB9AC\uAE30 \uC6D0\uC22D\uC774_Lv3"
+    Pow: 3
+    Speed: 14
+    Price: 300
+    PowState: 1
+    SpeedState: 1
